@@ -19,14 +19,3 @@ file:/^Template/
 - [[Template - Tech]]
 <-->
 
-
-## Snippet templates
-
-Another type of templates are the snippets templates that allows us to insert pieces of information previously formatted for example, callouts, code, etc.
-
-```expander
-file:/^SS\s/
-```
-- [[SS Callout]]
-- [[SS Code Snippet]]
-<-->
