@@ -7,8 +7,12 @@
         "id": "fae2544a8d8ae4de",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/getting-started/00 - START HERE - Project - OSI - Obsidian System Improvement.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -60,14 +64,6 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "907647fd325a4bd8",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
@@ -84,11 +80,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "113d4f269616216a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "26ed67c542bf0c0f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/getting-started/00 - START HERE - Project - OSI - Obsidian System Improvement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,16 +105,21 @@
             }
           },
           {
-            "id": "b9036d1695f27c42",
+            "id": "fac10ca2990d756f",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "notes/getting-started/00 - START HERE - Project - OSI - Obsidian System Improvement.md"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e906f2a52369aeeb",
+        "type": "tabs",
+        "children": [
           {
             "id": "2749dab3191a9e66",
             "type": "leaf",
@@ -122,23 +132,15 @@
             }
           },
           {
-            "id": "fac10ca2990d756f",
+            "id": "907647fd325a4bd8",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "113d4f269616216a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
+              "type": "recent-files",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,15 +148,15 @@
   },
   "active": "fae2544a8d8ae4de",
   "lastOpenFiles": [
-    "dailynotes/2022-08-11.md",
+    "notes/getting-started/00 - START HERE - Project - OSI - Obsidian System Improvement.md",
     "notes/dailynotes/2022-08-11.md",
+    "dailynotes/2022-08-11.md",
     "getting-started/Doc - OSI - Plugins used.md",
     "getting-started/00 - START HERE - Project - OSI - Obsidian System Improvement.md",
     "getting-started/01 - Doc - OSI - Tag system definition.md",
     "getting-started/Example - OSI - QuickAdd - Create a capture data to dailynote macro.md",
     "getting-started/Doc - OSI - Repository.md",
     "getting-started/Doc - OSI - Stream Deck Profile.md",
-    "getting-started/Video Script - OSI - Demostrator video script.md",
-    "templates/Template - Blank.md"
+    "getting-started/Video Script - OSI - Demostrator video script.md"
   ]
 }
