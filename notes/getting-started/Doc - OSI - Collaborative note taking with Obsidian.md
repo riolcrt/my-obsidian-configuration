@@ -33,4 +33,4 @@ This note have to be like a readme, it should contain instructions to deploy the
 
 
 
-![[01 - Doc - OSI - Tag system definition]]
+![[01 - Tag system definition]]
