@@ -1,0 +1,28 @@
+
+
+.graph-view.color-fill {
+  color: #abc3831f;
+}
+.graph-view.color-circle {
+  color: #ffffff;
+}
+.graph-view.color-line {
+  color: #215e7027;
+}
+.graph-view.color-text {
+  color: #cac9aa;
+}
+.graph-view.color-fill-highlight {
+  color: #11083f;
+}
+.graph-view.color-line-highlight {
+  color: #afaaca;
+}
+
+.theme-dark .graph-view.color-fill-tag {
+    color: #9f9ab82d;
+}
+
+.theme-dark .graph-view.color-fill-attachment {
+    color: #e96f6f1e;
+}

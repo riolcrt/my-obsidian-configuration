@@ -1,0 +1,94 @@
+{
+  "choices": [
+    {
+      "id": "ed66ed4e-f95b-447e-89d2-002a531606ae",
+      "name": "Record to daily",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "dailynotes/{{DATE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "templates/Plantillla - Daily.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n- [{{DATE:HH:mm}}] {{VALUE}} {{LINKCURRENT}}\n\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Summary",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "c004b36c-70b6-4ec5-8cdd-a7846638f69e",
+      "name": "Set task for today",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "dailynotes/{{DATE}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "\n- [ ] {{VALUE}} - {{LINKCURRENT}} - 📅 {{DATE}}  "
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Summary",
+        "insertAtEnd": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Create meta",
+      "id": "4db5dc22-68d0-4981-b7e5-31fb3dba9598",
+      "commands": [
+        {
+          "name": "Blank",
+          "type": "Choice",
+          "id": "abb7b3f0-c68c-44bb-a0f9-af80027978e4",
+          "choiceId": "425b9ca4-f1ea-443e-8981-6c68d2fffa43"
+        },
+        {
+          "name": "Templater: Open Insert Template modal",
+          "type": "Obsidian",
+          "id": "f6f73131-bb92-4081-87d2-fc07ec00290d",
+          "commandId": "templater-obsidian:insert-templater"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line"
+}

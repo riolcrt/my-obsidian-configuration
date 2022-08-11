@@ -1,0 +1,37 @@
+{
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "quickadd:choice:ed66ed4e-f95b-447e-89d2-002a531606ae": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "quickadd:choice:c004b36c-70b6-4ec5-8cdd-a7846638f69e": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
+}

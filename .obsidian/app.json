@@ -1,0 +1,28 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "obsidianCss": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "assets",
+  "alwaysUpdateLinks": true,
+  "foldHeading": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 59
+  },
+  "defaultViewMode": "source",
+  "showFrontmatter": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ],
+  "spellcheck": true,
+  "foldIndent": true,
+  "communityPluginSortOrder": "download",
+  "userIgnoreFilters": [
+    "addons/",
+    "scripts/"
+  ]
+}

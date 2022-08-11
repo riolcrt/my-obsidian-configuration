@@ -1,0 +1,115 @@
+{
+  "nodePositions": [
+    {
+      "id": "README.md",
+      "x": 660.2362060546875,
+      "y": -1024.3155517578125
+    },
+    {
+      "id": "templates/Template - Company.md",
+      "x": -485.105224609375,
+      "y": 22.913768768310547
+    },
+    {
+      "id": "templates/Template - Dev.md",
+      "x": -234.9156036376953,
+      "y": -551.1461181640625
+    },
+    {
+      "id": "templates/Template - Meeting.md",
+      "x": 90.30126953125,
+      "y": -448.88690185546875
+    },
+    {
+      "id": "templates/Template - Person.md",
+      "x": 122.83124542236328,
+      "y": -266.5050964355469
+    },
+    {
+      "id": "templates/Template - Project.md",
+      "x": -400.53765869140625,
+      "y": -490.23028564453125
+    },
+    {
+      "id": "templates/Template - Resource.md",
+      "x": -61.2591667175293,
+      "y": -537.9367065429688
+    },
+    {
+      "id": "templates/Template - Task.md",
+      "x": -517.71484375,
+      "y": -350.1688232421875
+    },
+    {
+      "id": "templates/Template - Tech.md",
+      "x": -559.1044921875,
+      "y": -164.23257446289062
+    },
+    {
+      "id": "getting-started/Project - OSI - Obsidian System Improvement.md",
+      "x": 344.46343994140625,
+      "y": 314.27508544921875
+    },
+    {
+      "id": "getting-started/Doc - OSI - Stream Deck Profile.md",
+      "x": -61.995235443115234,
+      "y": 126.03916931152344
+    },
+    {
+      "id": "getting-started/Video Script - OSI - Demostrator video script.md",
+      "x": 416.59576416015625,
+      "y": 605.9976806640625
+    },
+    {
+      "id": "getting-started/Doc - OSI - Automation Scripts.md",
+      "x": -37.32136154174805,
+      "y": 480.3205871582031
+    },
+    {
+      "id": "getting-started/Doc - OSI - Collaborative note taking with Obsidian.md",
+      "x": 665.4170532226562,
+      "y": 54.43398666381836
+    },
+    {
+      "id": "getting-started/Doc - OSI - Obsidian tag batcher plugin repository.md",
+      "x": 69.9529037475586,
+      "y": 611.4271850585938
+    },
+    {
+      "id": "getting-started/Doc - OSI - Plugins used.md",
+      "x": 744.8372802734375,
+      "y": 647.6057739257812
+    },
+    {
+      "id": "getting-started/Doc - OSI - Repository.md",
+      "x": 220.95811462402344,
+      "y": 673.5130615234375
+    },
+    {
+      "id": "getting-started/Doc - OSI - Tag system definition.md",
+      "x": 348.80682373046875,
+      "y": -75.85595703125
+    },
+    {
+      "id": "getting-started/Doc - OSI - Template collection.md",
+      "x": -181.13038635253906,
+      "y": -180.36293029785156
+    },
+    {
+      "id": "getting-started/Example - OSI - QuickAdd - Create a capture data to dailynote macro.md",
+      "x": 487.1005859375,
+      "y": 801.569091796875
+    },
+    {
+      "id": "getting-started/Example - OSI - QuickAdd - Create a template based note and add a link in place.md",
+      "x": 755.90771484375,
+      "y": 360.0147399902344
+    },
+    {
+      "id": "getting-started/Idea - OSI - Get the wikipedia description of a tech when create a new note.md",
+      "x": 38.81169891357422,
+      "y": 319.5159912109375
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

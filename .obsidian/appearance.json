@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "graph-style",
+    "supercharged-links-gen"
+  ],
+  "baseFontSize": 10,
+  "theme": "obsidian",
+  "translucency": false,
+  "baseFontSizeAction": true
+}

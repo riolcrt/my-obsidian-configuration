@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "templates/Plantillla - Daily.md",
+    "folder": "dailynotes",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "templates/Plantilla - Weekly Note.md",
+    "folder": "dailynotes",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
