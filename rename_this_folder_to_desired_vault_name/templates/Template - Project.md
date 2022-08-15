@@ -3,7 +3,7 @@ let projectName = await tp.system.prompt("Project Name")
 let acronym = await tp.system.prompt("Acronym")
 let aliases = ""
 
-const projectsRootFolder = "notes/projects"
+const projectsRootFolder = "projects"
 const targetFolder = `${projectsRootFolder}/${acronym}`
 
 try {

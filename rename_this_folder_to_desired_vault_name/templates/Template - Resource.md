@@ -1,7 +1,7 @@
 <%\*
 let resourceName = await tp.system.prompt("Resource Title")
 
-const projectsRootFolder = "notes/projects"
+const projectsRootFolder = "projects"
 const projects = Array.from(new Set(app.vault.getFiles().map(x => x.path.split("/")).filter(x => x.length > 1).filter(x => x[0] == projectsRootFolder).map(x => x[1]))).filter(x => !x.includes(".md"))
 
 const projectAcronym = await tp.system.suggester(projects, projects, true, "Project Acronym")
